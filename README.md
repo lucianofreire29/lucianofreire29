@@ -1,15 +1,23 @@
 # Olá, eu sou Luciano Freire 👋
 
-Sou desenvolvedor em início de carreira, dedicado ao aprendizado contínuo e à criação de projetos práticos.
+Atualmente direciono meus estudos e meu desenvolvimento profissional para **Segurança da Informação**.
 
-Atualmente, desenvolvo aplicações web e desktop para aprimorar meus conhecimentos em programação, interfaces, APIs e bancos de dados.
+Busco construir uma base sólida em proteção de dados, segurança de aplicações, redes, sistemas e boas práticas de segurança. Meus conhecimentos em programação complementam essa trajetória, ajudando na compreensão de aplicações, na identificação de riscos e na automação de tarefas.
 
-## Tecnologias e ferramentas
+## Foco profissional
+
+- Segurança da Informação
+- Segurança de aplicações e APIs
+- Proteção de dados e controle de acesso
+- Fundamentos de redes e sistemas
+- Automação de tarefas com Python
+
+## Conhecimentos complementares
 
 - **Linguagens:** Python e JavaScript
-- **Front-end:** HTML e CSS
-- **Back-end:** Node.js e Express
+- **Desenvolvimento web:** HTML, CSS, Node.js e Express
 - **Banco de dados:** PostgreSQL
+- **Autenticação e serviços:** Firebase
 - **Interfaces desktop:** Tkinter e CustomTkinter
 - **Ferramentas:** Git, GitHub e VS Code
 
@@ -17,9 +25,9 @@ Atualmente, desenvolvo aplicações web e desktop para aprimorar meus conhecimen
 
 ### ✈️ [Trip Planner](https://github.com/lucianofreire29/TRIP-PLANNER)
 
-Aplicação para planejamento e gerenciamento de viagens, com áreas destinadas ao usuário e à administração.
+Sistema web para planejamento e gerenciamento de viagens, com área pública, painel administrativo, API, banco de dados e autenticação.
 
-O projeto utiliza uma API desenvolvida com Node.js e Express, integração com PostgreSQL e recursos de autenticação e armazenamento com Firebase.
+O projeto contribuiu para meu aprendizado sobre autenticação, variáveis de ambiente, controle de acesso, integração entre serviços e proteção de aplicações web.
 
 **Tecnologias:** JavaScript, HTML, CSS, Node.js, Express, PostgreSQL e Firebase.
 
@@ -27,33 +35,34 @@ O projeto utiliza uma API desenvolvida com Node.js e Express, integração com P
 
 ### 🏥 [Gestão de Atendimentos — CareSync](https://github.com/lucianofreire29/Gest-o-de-Atendimentos)
 
-Aplicação desktop para gerenciamento de pacientes e atendimentos, com login, dashboard, cadastro de pacientes e histórico de atendimentos.
+Aplicação desktop educacional para cadastro de pacientes e registro de atendimentos.
 
-**Tecnologias:** Python, Tkinter, CustomTkinter e Pillow.
+O projeto reforçou a importância da privacidade, do tratamento responsável de dados sensíveis, da proteção de credenciais e da separação entre dados de exemplo e dados operacionais.
+
+**Tecnologias:** Python, Tkinter, CustomTkinter e arquivos JSON.
 
 ---
 
 ### 🎯 [Jogo da Adivinhação](https://github.com/lucianofreire29/jogo-adivinhacao)
 
-Jogo desktop no qual o usuário deve descobrir um número secreto. Possui limite de tentativas, cronômetro e sistema de dicas por proximidade.
+Jogo desktop com limite de tentativas, cronômetro, dicas progressivas e validação de entradas.
+
+O projeto demonstra fundamentos de Python, organização de código, controle de estado e validação de dados fornecidos pelo usuário.
 
 **Tecnologias:** Python, Tkinter e CustomTkinter.
 
-## Atualmente estudando
+## Em evolução
 
-- Desenvolvimento de aplicações web
-- Python e JavaScript
-- Criação e consumo de APIs
-- Banco de dados PostgreSQL
-- Git, GitHub e boas práticas de código
+- fundamentos de Segurança da Informação;
+- redes, sistemas operacionais e controle de acesso;
+- segurança de aplicações web;
+- análise de logs e identificação de eventos;
+- automação aplicada à segurança com Python;
+- documentação técnica e boas práticas no GitHub.
 
-## Objetivos
+## Objetivo
 
-- Evoluir como desenvolvedor
-- Criar projetos completos e bem documentados
-- Aprimorar a organização e a qualidade do meu código
-- Conquistar minha primeira oportunidade profissional na área
-
+Construir uma trajetória profissional em **Segurança da Informação**, utilizando programação como uma competência complementar para analisar sistemas, automatizar processos e compreender melhor os riscos presentes em aplicações e infraestruturas.
 
 ## Contato
 
