@@ -66,6 +66,6 @@ Construir uma trajetória profissional em **Segurança da Informação**, utiliz
 
 ## Contato
 
-- **LinkedIn:** [Luciano Alves](https://www.linkedin.com/in/luciano-alves-391701233/)
+- **LinkedIn:** [Luciano Alves](https://www.linkedin.com/in/luciano-alves-freire-neto-391701233/)
 - **E-mail:** [lucianofreiredigital29@gmail.com](mailto:lucianofreiredigital29@gmail.com)
 - **GitHub:** [github.com/lucianofreire29](https://github.com/lucianofreire29)
